@@ -7,7 +7,7 @@ Sua Tarefa: Explique a arquitetura e o fluxo de como você usaria a técnica de 
 
 ## O que é RAG e por que usá-lo aqui
 
-RAG (Retrieval-Augmented Generation) é uma técnica onde, em vez de pedir para a IA gerar um diagnóstico "do zero" (o que causa alucinações), primeiro **buscamos** os relatos reais no banco e depois os **colocamos dentro do prompt** como material de consulta. A IA só pode gerar conclusões com base nesses relatos — como responder uma prova com consulta.
+RAG (Retrieval-Augmented Generation) é uma técnica onde, em vez de pedir para a IA gerar um diagnóstico "do zero" (o que causa alucinações), primeiro **recuperamos** os relatos reais no banco e depois os **injetamos dentro do prompt** como material de consulta. A IA só pode gerar conclusões com base nesses relatos — é como se aplicassemos uma prova com consulta pra ela.
 
 Isso resolve o problema de auditabilidade porque cada afirmação do diagnóstico vem acompanhada da citação do relato que a originou, e o gestor pode clicar e verificar.
 
