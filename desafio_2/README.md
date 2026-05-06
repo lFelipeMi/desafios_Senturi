@@ -1,6 +1,13 @@
 Desafio 2: Agente Classificador e Extração JSON (IA)
 
-Cenário: Precisamos que uma IA leia relatos abertos de colaboradores e os vincule a 1 dos nossos 8 Macrodomínios: 1. Exigências do Trabalho; 2. Organização do Trabalho; 3. Autonomia e Controle; 4. Suporte Social e Liderança; 5. Esforço e Recompensa; 6. Interface Trabalho-Vida; 7. Saúde e Recuperação; 8. Potencial Cognitivo e Segurança Psicológica.
+Cenário: Precisamos que uma IA leia relatos abertos de colaboradores e os vincule a 1 dos nossos 8 Macrodomínios: 
+- Exigências do Trabalho;
+- Organização do Trabalho;
+- Autonomia e Controle; Suporte Social e Liderança;
+- Esforço e Recompensa;
+- Interface Trabalho-Vida;
+- Saúde e Recuperação;
+- Potencial Cognitivo e Segurança Psicológica.
 
 ---
 
